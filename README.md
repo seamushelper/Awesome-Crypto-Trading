@@ -51,12 +51,15 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-crypto-tradin
 
 ## Analytics platforms
 
+- [Defined](https://defined.fi/) - Real-time DEX trading terminal with charts, token explorer, and wallet tracking across multiple chains
+
 ## API
 
 - [cryptocompare](https://min-api.cryptocompare.com/documentation)
 - [ccxt-rest](https://github.com/franz-see/ccxt-rest) - Unified REST API on #javascript
 - [ccxt-microservice](https://github.com/xeno14/ccxt-microservice) - Unified REST API on #python
 - [ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
+- [Codex](https://codex.io/) - Blockchain data API providing real-time and historical token data across 70+ networks via GraphQL
 
 ## AI
 
